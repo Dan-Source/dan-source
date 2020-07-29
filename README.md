@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá este é meu repositorio.
+
+- Estou aprendendo a desenvolver aplicações web
+- Ultimamente estou focando em aprender JS
+- Ando construindo meu portifolio com projetos do FreeCodeCamp e do Odin Project
+
+
 
 <!--
 **Dan-Source/dan-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
