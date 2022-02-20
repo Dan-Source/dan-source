@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django, DRF & VUEjs*
 
-- 💬 Ask me about **Piauí**
+- 💬 Ask me about **Chess, The Wheel of Time, and other things....**
 
 - 📫 How to reach me **dan.dluis.dl@gmail.com**
 
