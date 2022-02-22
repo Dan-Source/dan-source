@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Luis</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Django, DRF & VUEjs*
+- 🌱 I’m currently learning **Django, DRF & VUEjs**
 
 - 💬 Ask me about **Chess, The Wheel of Time, and other things....**
 
